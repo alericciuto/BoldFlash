@@ -1,0 +1,388 @@
+BUSINESS PROCESSES
+MAPPING, ANALYSING, MEASURING AND IMPROVING
+
+->Learning goals
+
+• Understanding the logics of business process orientation, its advantages and usefulness
+• Understanding the principles of business process management
+• Recognizing and representing business processes
+• Measuring the performance of a business process
+• Analyzing and improving business processes
+
+-> What is a business process
+                         A business process is an organized set of activities and decisions,
+                        aimed at creating an output that is actually required by a customer,
+                                   to which she attributes a well-defined value
+
+The business processes:
+    –   Represent how work is actually accomplished within firms
+    –   Link the activities of an organization to the requirements of its customers
+    –   Embed, in their execution, the organizational strategy, creating opportunities to produce a competitive advantage
+    –   Generally are cross-functional and horizontal
+    –   Can extend beyond corporate boundaries
+    –   Describe what is outside the traditional hierarchic structures
+    –   “Force” employees to collaborate
+                                                   Function A      Function B      Function C
+
+
+                                 Customer                                                           Customer
+                                 needs                                                              satisfaction
+                                 INPUT                                                              OUTPUT
+                                 (e.g. order)                                                       (e.g.
+                                                                                                    delivered
+                                                                                                    product)
+->Example of a process: a description
+• The order fulfillment process is carried out by a seller’s organization which includes two
+  departments: the sales department and the warehouse & distribution department.
+
+• The purchase order received by warehouse & distribution is checked against the stock. This
+  operation is carried out automatically by the ERP system of warehouse & distribution, which
+  queries the warehouse database.
+
+• If the product is in stock, it is retrieved from the warehouse before sales confirm the order.
+  Next sales emit an invoice and wait for the payment, while the product is shipped from
+  within warehouse & distribution. The process completes with the order archival in the sales
+  department.
+
+• If the product is not in stock, the ERP system within warehouse & distribution checks the
+  raw materials availability by accessing the suppliers catalog. Once the raw materials have
+  been obtained the warehouse & distribution depart- ment takes care of manufacturing the
+  product. The process completes with the purchase order being confirmed and archived by
+  the sales department.
+  
+
+->Why processes matter
+
+• Customer centrality
+• Performance improvement
+• Co-creation of value
+
+->Process orientation vs. Business Process Managegement (BPM)
+
+• Process orientation: organizational approach that emphasizes business processes
+  with respect to hierarchical structures, with a strong emphasis on results and
+  customer satisfaction
+
+• Basic assumptions: organizations do not create value and profits through
+  organizational units but through business processes
+
+• Business Process Management: systematic and structured approach to analyze,
+  manage, control and improve business processes over time with the aim of
+  integrating activities and improving the overall performance of products and services
+
+->Key elements of a business process
+•   Output:
+     -    Defined starting from the customer needs
+     -    Both physical as well as informa7onal
+
+•   Input:
+     -     Physical or informational factors from outside or from other processes
+     -     They are necessary to the development of the process (transformation of the inputs)
+
+•   Controls: data and information that provides rules, procedures to be followed
+
+•   Phases:
+     -     Sets of activities and decisions that, interacting among each other, enable to achieve the outputs
+     -     Heterogeneous nature: e.g. transformation, delivery, information elaboration, decisions, etc.
+
+•   Interdependences:
+     -    Logical and priority links among phases, activities and decisions
+     -    They are sequential, mutual or generic
+          
+
+•   Events: situations that affect the process ﬂow
+
+•   Resources:
+     -    Human competences
+     -    Technologies (machine tools, plans, information systems, SW, automatic procedures)
+
+•   Management methods: basic logics through which coordinate activities, make decisions and check the process progress
+
+->Process classification
+                 Government processes: provides tools to support decision making
+                 (their “customers” are managers and stakeholders)
+
+
+                 Operational support processes: produce services and info
+                 for the business deployment (they have internal customers)
+
+                                Management control
+                                   HR management
+                               Technology development
+                                    Procurement
+
+
+                    INBOUND LOGISTICS, OPERATIONS, OUTBOUND LOGISTICS, MARKETING SALES, SERVICES
+					
+                 Primary processes: directly create value for the external customers
+				 
+->Processes and organizational functions
+                           •   Functions:                                                                   Which role can
+                                – Objective: resource management                                            the organizational
+                                – Activities grouped according to similarities                              structure have in
+                           •   Processes:                                                                   enabling a strong
+                                                                                                            integration of the
+                                – Objective: realize an output for a peculiar customer                      processes?
+                                – Activities grouped according to
+                                  physical/informational streams
+
+                                                                                                            •   Horizontal
+                                Organizational functions:                                                       structure
+                                   competence tanks                                                             (process-based)
+                                   Technical              Market         Production
+                                  competences            competence      competences
+
+
+                                                                                                            •   Business
+                                                                                                                processes like
+                                                                                                                an additional
+                                                                                                                organizational
+																												dimension ( matrix
+																												structure or
+                                                                                                                usage of
+                                                                                                                integrating
+                                                                                                                managers)
+->          Business process management principles
+
+• Cultural principles
+   1.   Pervasiveness of process orientation
+   2.   Customer-supplier logic
+
+
+• Organizational principles
+   3.   Process ownership
+   4.   Jobs and roles redesign
+
+
+• Management principles
+   5.   Process documentation
+   6.   Process measurement
+   7.   Process flow optimization
+   8.   Decoupling point
+->1. Pervasiveness of process orientation
+
+• Background logic/key elements:
+  Systematic and continuous approach over time to the management of business processes
+
+
+• Levers:
+   – Process knowledge (Mapping)
+   – Employees engagement
+   – Modification of evaluation and incentive systems
+
+
+• Objectives/Benefits:
+   – Dissemination of an awareness of the downstream and upstream impacts of employee’s activities
+   – Dissemination of process culture
+   
+->2. Customer-supplier logic
+
+                              Company
+
+          Supplier            Functions            Final customer
+
+                                                                    Transforming the final
+                                                                    customer's goals into goals
+                                                                    for intermediate process
+                                                                    customers (deployment)
+
+
+
+                         Request          Output
+
+
+
+         Requires:
+         – Treat the downstream function as an external customer
+         – Work for the client and not for the boss
+         – Flexibility and response speed
+         – Extend the logic upstream and downstream (customer-supplier partnership)
+
+• Background logic/key elements:
+   – Deployment of objectives
+   – Activation of customer-supplier chains
+   
+• Levers:
+   – Interface measurement (e.g. SLA, transfer prices)
+   – Application of partnership logics (joint implementation of the transaction, process management,
+     exchange of know-how)
+   – Process standardization (phases, inputs and upstream capacity) to isolate exceptions
+
+
+• Objectives/Benefits:
+   – Increased response speed
+   – Effective response to customer needs
+   
+->A partucular case: managing support processes
+
+• Background logic/key elements:
+  “service culture” for support functions
+
+• Levers:
+   – Re-grouping of primary processes (e.g. maintenance, tooling, quality control)
+   – Information production within processes
+   – Outsourcing of support processes
+
+
+• Objectives/Benefits:
+   – Avoid "estrangement" and "self-referentiality" of support processes
+   – Improve the timeliness of the support
+   
+->3. Process ownership
+
+• Background logic/key elements:
+  Supervision and support of the integration between "traditional" processes and organizational structures
+
+
+• Levers:
+   – Locate the process owner
+   – Decide whether to employ a strategic or operational process owner
+   – Consider the use of methodological process owners (perhaps third parties to guarantee objectivity)
+
+
+• Objectives/Benefits:
+   – Encourage the achievement of process objectives
+   – Promote continuous improvement of the process
+   
+->4. Job and roles redesign
+
+• Background logic/key elements:
+  Redesign of working methods with the aim of guaranteeing business process integration
+
+• Levers:
+   – Job re-design:
+       • Job enlargement: multiple tasks in the same position
+       • Job enrichment: more autonomy and decision-making power
+       • Working groups: shared responsibility for process results
+   – Delegation of decision-making:
+       •   Responsibility for process performance
+       •   Substantial as well as formal delegation (autonomy, decision levers)
+       •   Need for training
+       •   Delegation + increase in skills = staff empowerment
+
+
+• Objectives/Benefits:
+   – Reduce the need for integration/coordination along the business process
+   – Employees’ involvement
+   
+->5. Process documentation
+
+• Background logic/key elements:
+  Sharing and dissemination of processes
+
+
+• Levers:
+   – Mapping software
+   – Repository, intranet
+   – Sharing of process documentation
+
+
+• Objectives/Benefits:
+   – Recognize processes and responsibilities
+   – Collect and encode data
+   – Support process understanding and the identification of optimization opportunities
+   
+->6. Process measurement
+
+• Background logic/key elements:
+  Recognize and explain the objectives and define and measure the results of the processes
+
+
+• Levers:
+   – Dashboard of Key Performance Indictors (e.g. balance scorecard or performance tree)
+   – Process-oriented management control system
+   – Incentive mechanisms consistent with process perspective
+
+
+• Objectives/Benefits:
+   – Performance management of business processes
+   
+->7. Process flow optimization
+
+• Background logic/key elements:
+  Designing the flow and the sequence of activities from a business process perspective
+
+
+• Levers:
+   –   Elimination of redundant activities that do not add value
+   –   Streamlining of process flow (reduced feedback loops)
+   –   Parallelization or activities overlapping to reduce process leadtime
+   –   Rationalization of control activities (e.g. from complete to sample-based)
+
+
+• Objectives/Benefits:
+   – Create value for the end customer of the process
+   – Make the process effective and efficient
+   
+->Elimination of redundant activities that do not add value
+->Streamlining of process flow (reduced feedback loops)
+->Activities overlapping (parallelization)
+->Rationalization of control activities (e.g. from complete to sample-based)
+
+->8. Decoupling point
+
+• Background logic/key elements:
+  Balance response speed and personalization
+
+
+• Levers:
+   –   Detection of the decoupling point
+   –   Redesign of product/service architecture
+   –   Use of standard modules (e.g. flatbed vehicles of segment B)
+   –   Postponement (standardization of upstream activities and customization of downstream ones)
+
+
+• Objectives/Benefits:
+   – Create value for process customer
+   – Make the process effective and efficient
+                    
+
+        Push        Process    Customer       Seasonal
+       logic        start      request         sweets    
+	   
+        Time  -------------------------->    Examples
+
+        Pull logic      Customer   Process    Contract
+                          request    start    Engineering                
+
+   
+->The pivotal role of Information and Communication Technologies
+
+•   Information and Communication Technologies (ICTs) play a pivotal role in configuring process-
+    oriented organizations
+     – Improved coordination
+     – Facilitation of control
+     – Dissemination of knowledge
+
+•   Attention: ICTs must not guide process redesign, but follow and support it!
+
+•   Two families of applications:
+     – Support for process modeling and management (Business Process Management Systems - BPMS)
+     – Support to process execution and integration (Enterprise Systems - ES)
+	 
+->The pivotal role of Information and Communication Technologies
+                Business Process                                          Enterprise
+               Management Systems                                          Systems
+
+              BPMS
+         Process modeling and management
+                                                                          ES
+                                                               Process execution and integration
+
+
+
+
+        Monitoring, analysis               Unified Modeling                       Enterprise
+        and implementation                     Language                        Resource Planning
+                                                (UML)                                  (ERP)
+             Execution
+                                            Business Process
+                                           Modeling Notation                 Customer Relationship
+            Simulation                                                           Management
+                                               (BPMN)
+                                                                                       (CRM)
+             Modelling
+                                                                                  Supply Chain
+                                                                                  Management
+            Graphical
+          representation                                                               (SCM)
